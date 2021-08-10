@@ -1,7 +1,7 @@
 # Ganning Xu 👋
 
 - 🔭 I’m currently working on passing my classes and getting enough sleep.
-- 🌱 I’m currently learning NodeJS. 
+- 🌱 I’m currently learning C and NodeJS. 
 - 💬 Ask me about Python, NodeJS, Azure functions, Web dev (html, css, js, bootstrap). 
 - 😄 Pronouns: He/Him
 
