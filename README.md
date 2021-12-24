@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on passing my classes and getting enough sleep.
 - 🌱 I’m currently learning C, Java, and C++. 
-- 💬 Ask me about Python, NodeJS, Azure functions, Web dev (html, css, js, bootstrap). 
+- 💬 Ask me about Python3, JavaScript, NodeJS, Java, C, Azure, React, NextJS, SCSS, CSS, jQuery, Bootstrap
 - 😄 Pronouns: He/Him
 
 ## About 😊
