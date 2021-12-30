@@ -8,7 +8,7 @@ class Ganning:
         self.vscode_theme = "After Dark" # i love this color theme
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
-            "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C", ""],
+            "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
             "mobile": ["React Native"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
         }
