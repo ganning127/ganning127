@@ -5,7 +5,8 @@ class Ganning:
     def __init__(self):
         self.name = "Ganning Xu"
         self.school = "North Carolina School of Science and Mathematics"
-        self.vscode_theme = "After Dark" # i love this color theme and thought it was important to mention :)
+        # i love this color theme and thought it was important to mention :)
+        self.vscode_theme = "After Dark"
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
             "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
@@ -22,6 +23,8 @@ class Ganning:
             "github": "github.com/ganning127",
         }
 
+if __name__ == '__main__':
+    me = Ganning()
 ```
 
 ## Cool GitHub API that gives me stats!
