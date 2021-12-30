@@ -1,18 +1,28 @@
-# Ganning Xu 👋
+# Hello, I'm Ganning
 
-- 🔭 I’m currently working on passing my classes and getting enough sleep.
-- 🌱 I’m currently learning C, Java, and C++. 
-- 💬 Ask me about Python3, JavaScript, NodeJS, Java, C, Azure, React, NextJS, SCSS, CSS, jQuery, Bootstrap
-- 😄 Pronouns: He/Him
+```py
+class Ganning:
+    def __init__(self):
+        self.name = "Ganning Xu"
+        self.school = "North Carolina School of Science and Mathematics"
+        self.vscode_theme = "After Dark" # i love this color theme
+        self.code = {
+            "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
+            "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C", ""],
+            "mobile": ["React Native"],
+            "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
+        }
+        self.description = "I'm a high school junior at NCSSM. Currently, I'm working on an app that helps users track expiration dates for products!"
 
-## About 😊
-Hi there! I'm a high school junior in North Carolina passionate about computer science. I'm interested in both backend and frontend development. I want to learn more about machine learning and creating practical web applications.
+    def get_contacts(self):
+        return {
+            "email": "xu23g@ncssm.edu",
+            "linkedin": "linkedin.com/in/ganningxu",
+            "website": "ganning.me",
+            "github": "github.com/ganning127",
+        }
 
-## GitHub Stats 📈
-<img alt="Ganning's github stats" src="https://github-readme-stats.vercel.app/api?username=ganning127&&show_icons=true&title_color=6593e1&icon_color=ffffff&text_color=bdfcff&bg_color=151515" >
+```
 
-## Top Languages 💻
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganning127&langs_count=10&theme=tokyonight&layout=compact" alt="Ganning Xu :: Top Langs" />
-
-## Connect with Me 📱
-<img src="https://img.shields.io/badge/ganningxu@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ganningxu@gmail.com">   <a href="https://www.linkedin.com/in/ganningxu/"><img src="https://img.shields.io/badge/Ganning Xu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.instagram.com/ganning_xu/"><img src="https://img.shields.io/badge/@ganning_xu-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>    
+## Cool GitHub API that gives me stats!
+<img alt="Ganning's github stats" src="https://github-readme-stats.vercel.app/api?username=ganning127&show_icons=true&theme=cobalt" >
