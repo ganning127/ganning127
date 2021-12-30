@@ -5,8 +5,7 @@ class Ganning:
     def __init__(self):
         self.name = "Ganning Xu"
         self.school = "North Carolina School of Science and Mathematics"
-        # i love this color theme and thought it was important to mention :)
-        self.vscode_theme = "After Dark"
+        self.vscode_theme = "After Dark" # i love this color theme and thought it was important to mention :)
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
             "backend": ["Python", "Node.js", "Java", "Azure Functions", "PostgreSQL", "AWS Lambda", "C"],
