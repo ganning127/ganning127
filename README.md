@@ -22,7 +22,7 @@ class Ganning:
             "github": "github.com/ganning127",
         }
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     me = Ganning()
 ```
 
