@@ -26,5 +26,5 @@ if __name__ == "__main__":
     me = Ganning()
 ```
 
-## Cool GitHub API that gives me stats!
+## Cool github api that gives me stats!
 <img alt="Ganning's github stats" src="https://github-readme-stats.vercel.app/api?username=ganning127&show_icons=true&theme=cobalt" >
