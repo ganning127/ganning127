@@ -1,4 +1,4 @@
-# Hello, I'm Ganning
+# Hello, I'm Ganning 👋 
 
 ```py
 class Ganning:
@@ -12,7 +12,7 @@ class Ganning:
             "mobile": ["React Native"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
         }
-        self.description = "I'm a high school junior at NCSSM. Currently, I'm working on an app that helps users track expiration dates for products!"
+        self.description = "I'm a high school senior at NCSSM. 🙂 I love making fun and random applications, or building websites for nonprofits and local businesses! Feel free to reach out and say hello :)"
 
     def get_contacts(self):
         return {
@@ -26,5 +26,5 @@ if __name__ == "__main__":
     me = Ganning()
 ```
 
-## Cool github api that gives me stats!
+## Fun API that gives me stats!
 <img alt="Ganning's github stats" src="https://github-readme-stats.vercel.app/api?username=ganning127&show_icons=true&theme=cobalt" >
