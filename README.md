@@ -4,7 +4,7 @@
 class Ganning:
     def __init__(self):
         self.name = "Ganning Xu"
-        self.school = "North Carolina School of Science and Mathematics"
+        self.school = "Georgia Institute of Technology"
         self.vscode_theme = "After Dark" # i love this color theme and thought it was important to mention :)
         self.code = {
             "frontend": ["JavaScript", "React.js", "Next.js", "Bootstrap", "Chakra UI", "Tailwind CSS", "HTML", "CSS", "Sass", "Redux"],
@@ -12,11 +12,11 @@ class Ganning:
             "mobile": ["React Native"],
             "tools": ["Git", "GitHub", "GitHub Actions", "Bash", "Linux"]
         }
-        self.description = "I'm a high school senior at NCSSM. 🙂 I love making fun and random applications, or building websites for nonprofits and local businesses! Feel free to reach out and say hello :)"
+        self.description = "I'm a rising freshman at Georgia Tech. 🙂 I love making fun and random applications, or building websites for nonprofits and local businesses! Feel free to reach out and say hello :)"
 
     def get_contacts(self):
         return {
-            "email": "xu23g@ncssm.edu",
+            "email": "ganning.xu@gatech.edu",
             "linkedin": "linkedin.com/in/ganningxu",
             "website": "ganning.me",
             "github": "github.com/ganning127",
