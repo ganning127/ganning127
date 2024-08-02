@@ -16,8 +16,9 @@ I'm a Computer Science student at Georgia Tech. I love building apps that benefi
 JavaScript, Java, Python, C
 
 ## Contact
-- 📧 ganning.xu@gatech.edu
-- 🌎 https://ganningxu.com
+📧 ganning.xu@gatech.edu <br />
+🌎 https://ganningxu.com <br />
+💼 https://www.linkedin.com/in/ganningxu
 
  <!--- Wrap text
 ```py
