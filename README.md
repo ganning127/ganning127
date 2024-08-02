@@ -6,7 +6,7 @@ I'm a Computer Science student at Georgia Tech. I love building apps that benefi
 - GT Academic Calendars ([link](https://gt-academic-calendars.vercel.app))
 - GT Class Reviews ([link](https://gt-class-reviews.vercel.app))
 
-## Experience
+## I'm working on...
 - Software Engineering Intern @ Fidelity Investments
 - Software Engineer Intern @ Apache Software Foundation (Google Summer of Code)
 - CS 2110 (Computer Organization & Programming) Teaching Assistant @ Georgia Tech
