@@ -1,5 +1,25 @@
-# Hello, I'm Ganning 👋 
+# Hi, I'm Ganning Xu 👋 
+![](https://komarev.com/ghpvc/?username=ganning127&color=blue)
 
+I'm a Computer Science student at Georgia Tech. I love building apps that benefit others, such as:
+- Focale (https://chrome.google.com/webstore/detail/focale-study-pal/khjidjdpidalladedmkjibjkklanhcnc)
+- GT Academic Calendars (https://gt-academic-calendars.vercel.app)
+- GT Class Reviews (https://gt-class-reviews.vercel.app)
+
+## Experience
+- Software Engineering Intern @ Fidelity Investments
+- Software Engineer Intern @ Apache Software Foundation (Google Summer of Code)
+- CS 2110 Teaching Assistant @ Georgia Tech
+- Tech Team @ HexLabs (hosting Georgia Tech's annual hackathon, HackGT)
+
+## Languages
+JavaScript, Java, Python, C
+
+## Contact
+- 📧 ganning.xu@gatech.edu
+- 🌎 https://ganningxu.com
+
+ <!--- Wrap text
 ```py
 class Ganning:
     def __init__(self):
@@ -25,3 +45,4 @@ class Ganning:
 if __name__ == "__main__":
     me = Ganning()
 ```
+ --->
