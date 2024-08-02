@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=ganning127&color=blue)
 
 I'm a Computer Science student at Georgia Tech. I love building apps that benefit others, such as:
-- Focale (https://chrome.google.com/webstore/detail/focale-study-pal/khjidjdpidalladedmkjibjkklanhcnc)
-- GT Academic Calendars (https://gt-academic-calendars.vercel.app)
-- GT Class Reviews (https://gt-class-reviews.vercel.app)
+- Focale ([chrome web store](https://chrome.google.com/webstore/detail/focale-study-pal/khjidjdpidalladedmkjibjkklanhcnc))
+- GT Academic Calendars ([link](https://gt-academic-calendars.vercel.app))
+- GT Class Reviews ([link](https://gt-class-reviews.vercel.app))
 
 ## Experience
 - Software Engineering Intern @ Fidelity Investments
