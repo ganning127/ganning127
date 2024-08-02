@@ -9,7 +9,7 @@ I'm a Computer Science student at Georgia Tech. I love building apps that benefi
 ## Experience
 - Software Engineering Intern @ Fidelity Investments
 - Software Engineer Intern @ Apache Software Foundation (Google Summer of Code)
-- CS 2110 Teaching Assistant @ Georgia Tech
+- CS 2110 (Computer Organization & Programming) Teaching Assistant @ Georgia Tech
 - Tech Team @ HexLabs (hosting Georgia Tech's annual hackathon, HackGT)
 
 ## Languages
