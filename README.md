@@ -13,7 +13,7 @@ I'm a Computer Science student at Georgia Tech. I love building cool stuff:
 - Tech Team @ HexLabs (hosting Georgia Tech's annual hackathon, HackGT)
 
 ## Languages
-JavaScript, Java, Python, C
+JavaScript, Java, Python, C, SQL
 
 ## Contact
 📧 ganning.xu@gatech.edu <br />
