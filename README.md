@@ -1,10 +1,11 @@
 # Hi, I'm Ganning Xu 👋 
 ![](https://komarev.com/ghpvc/?username=ganning127&color=blue)
 
-I'm a Computer Science student at Georgia Tech. I love building apps that benefit others, such as:
+I'm a Computer Science student at Georgia Tech. I love building cool stuff:
+- Cybershuttle Desktop Application ([download here](https://md.cybershuttle.org/))
 - Focale ([chrome web store](https://chrome.google.com/webstore/detail/focale-study-pal/khjidjdpidalladedmkjibjkklanhcnc))
-- GT Academic Calendars ([link](https://gt-academic-calendars.vercel.app))
-- GT Class Reviews ([link](https://gt-class-reviews.vercel.app))
+- GT Academic Calendars ([gtacademiccalendar.ganningxu.com](https://gtacademiccalendar.ganningxu.com/))
+ - GT Class Reviews ([gtclassreviews.ganningxu.com](https://gtclassreviews.ganningxu.com/))
 
 ## I'm working on...
 - CS 2110 (Computer Organization & Programming) Teaching Assistant @ Georgia Tech
