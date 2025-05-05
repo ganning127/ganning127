@@ -2,18 +2,16 @@
 ![](https://komarev.com/ghpvc/?username=ganning127&color=blue)
 
 I'm a Computer Science student at Georgia Tech. I love building cool stuff:
+- Cybershuttle Research Catalog ([cybershuttle.org](https://cybershuttle.org/))
 - Cybershuttle Desktop Application ([download here](https://md.cybershuttle.org/))
 - Focale ([chrome web store](https://chrome.google.com/webstore/detail/focale-study-pal/khjidjdpidalladedmkjibjkklanhcnc))
 - GT Academic Calendars ([gtacademiccalendar.ganningxu.com](https://gtacademiccalendar.ganningxu.com/))
- - GT Class Reviews ([gtclassreviews.ganningxu.com](https://gtclassreviews.ganningxu.com/))
+- GT Class Reviews ([gtclassreviews.ganningxu.com](https://gtclassreviews.ganningxu.com/))
 
-## I'm working on...
-- CS 2110 (Computer Organization & Programming) Teaching Assistant @ Georgia Tech
-- Software Developer @ Apache Airavata
-- Tech Team @ HexLabs (hosting Georgia Tech's annual hackathon, HackGT)
-
-## Languages
-JavaScript, Java, Python, C, SQL
+## Currently...
+- Software Engineer Intern @ Wealthfront
+- Software Engineer @ Apache Airavata
+- Director of Technology @ HexLabs
 
 ## Contact
 📧 ganning.xu@gatech.edu <br />
